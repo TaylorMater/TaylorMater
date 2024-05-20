@@ -1,8 +1,8 @@
-### Hi there, I'm Riley. 
+## Hi there, I'm Riley. 
 
 
 
-# Currently open to work! 
+### Currently open to work! 
 [LinkedIn](https://www.linkedin.com/in/riley-taylor-664938223/)
 
 # Background:
