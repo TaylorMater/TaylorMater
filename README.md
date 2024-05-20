@@ -6,7 +6,7 @@
 [LinkedIn](https://www.linkedin.com/in/riley-taylor-664938223/)
 
 # Background:
-I graduated from the University of Texas at Austin in 2021 with degrees in Physics and Math, before getting a job as a software developer for GM IT. I worked on trying to update and overhaul a dated .NET Framework project that was integral for ASRS management and helped to develop a pipeline to build the said project. I left the company following a shoulder surgery to focus on developing data analysis skills and to engross myself in new technology. 
+I graduated from the University of Texas at Austin in 2021 with degrees in Physics and Math, before getting a job as a software developer for GM IT. I worked on trying to update and overhaul a dated .NET Framework project that was integral for ASRS management and helped to develop a pipeline to build the said project. I left the company to focus on developing data analysis skills and to engross myself in new technology. 
 
 -  Active Projects/Courses:
     - UTA Data Analytics BootCamp, expected to be done early June 2024.
