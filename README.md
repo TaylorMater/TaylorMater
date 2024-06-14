@@ -17,6 +17,7 @@ I graduated from the University of Texas at Austin in 2021 with degrees in Physi
     - Python ML Techniques
     - Reviewing mathematical statistics and techniques
     - C++
+    - SQL (postgresql)
     - C#
     - Reviewing/learning more about Math, Algorithms, Data Structures, Architecture, Web Development...
         * leetcode
