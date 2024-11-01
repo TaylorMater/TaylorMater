@@ -2,10 +2,11 @@
 
 
 ### Background:
-I graduated from the University of Texas at Austin in 2021 with degrees in Physics and Math, before getting a job as a software developer for GM IT. I worked on trying to update and overhaul a dated .NET Framework project that was integral for ASRS management and helped to develop a pipeline to build the said project. I left the company to complete a Data Analytics Bootcamp which led to my current position. 
+I graduated from the University of Texas at Austin in 2021 with degrees in Physics and Math. I currently work as a Data Scientist.  
 
 -  Active Projects/Courses:
     - Udemy Courses:
+        * [Snowflake](https://www.udemy.com/course/snowflake-masterclass/)
         * [Optimization](https://www.udemy.com/share/10aNPq3@aFd3KZD0329d7Duh0K5_NGfggR8B4Ybh7FwyMQWShGZ_C6JT190jdYatR_9ClqKJhg==/)
         * [C++](https://www.udemy.com/share/1051tA3@zqFJfcVNDOkQi2WTkAT6MKq-HhVc0dkEqWsXvJrUCQy712r8qjL7Nx5Fo1SpjoF_YQ==/)
   
