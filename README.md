@@ -8,7 +8,7 @@ I graduated from the University of Texas at Austin in 2021 with degrees in Physi
 
 - Machine Learning Techniques: R, Python
 - Databricks Data Engineer Certification
-- Reviewing Regression Models + Optimization (Stoachastic Gradient Descent algorithms, swarms, parameter fitting - etc)
+- Reviewing Regression Models + Optimization (Stoachastic Gradient Descent algorithms, swarms, parameter fitting, etc)
 - C# and Web Development
 - C++:
   - LeetCode
